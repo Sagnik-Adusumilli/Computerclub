@@ -9,7 +9,6 @@ public class DiceRoll {
 		int rolls = input.nextInt();
 		int points1 = 100;
 		int points2 = 100;
-		System.out.println("hello");
 		
 		int[] p1 = new int[rolls];
 		int[] p2 = new int[rolls];
